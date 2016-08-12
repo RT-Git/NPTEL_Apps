@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prime Checker</string>
+    <string name="t_response">True</string>
+    <string name="f_response">False</string>
+</resources>
