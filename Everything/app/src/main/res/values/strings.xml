@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Everything</string>
+    <string name="report_title_label">Title</string>
+    <string name="report_title_hint">Enter a Title</string>
+    <string name="report_details_label">Details</string>
+    <string name="report_resolved_label">Resolved</string>
+
+</resources>
